@@ -1,0 +1,49 @@
+body {
+  font-family: Verdana, serif;
+}
+
+
+
+
+
+nav {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+table {
+  border-collapse:collapse;
+  border-color:black;
+  width: 80%;
+  box-shadow: 10px 10px 5px grey;
+  margin-left: 100px
+
+
+}
+
+table thead {
+  background-color: #76B900;
+  color: white;
+
+
+
+}
+
+table td,
+table th{
+  padding: 8px;
+  border: solid black 2px;
+
+}
+
+table tr:nth-child(even) {
+  background-color: white;
+}
+
+table tr:hover {
+  background-color: white;
+}
+
+
+
+

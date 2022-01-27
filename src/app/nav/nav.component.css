@@ -1,0 +1,22 @@
+nav {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+nav a {
+  text-decoration:none;
+  border: 1px solid #0082D1;
+  background-color: #0082D1;
+  border-radius: 7px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+  box-shadow: 5px 5px 5px grey;
+}
+
+nav a:hover {
+  border: 1px solid #AFAFAF;
+  background-color: white;
+  color: #FF5F00;
+}
